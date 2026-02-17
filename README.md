@@ -26,13 +26,13 @@ How recursion is used in real programs
 
  What This Program Can Do
 
-✔ Add a new student
-✔ Search a student by roll number
-✔ Delete a student
-✔ Update student marks
-✔ Display all students in sorted order
-✔ Find the topper (highest marks)
-✔ Exit safely
+ Add a new student
+ Search a student by roll number
+ Delete a student
+ Update student marks
+ Display all students in sorted order
+ Find the topper (highest marks)
+ Exit safely
 
 The program is completely menu-driven and runs in the console.
 
