@@ -5,13 +5,7 @@ This project is a simple Student Record Management System built in Java using a 
 
 The purpose of this project is to understand how data structures (especially BST) work in real-life scenarios. Instead of just storing numbers, we use a tree to manage student records efficiently.
 
-Each student has:
-
-Roll Number
-
-Name
-
-Marks
+Each student has: Roll Number, Name, Marks
 
 The roll number is used as the key to organize students inside the Binary Search Tree.
 
